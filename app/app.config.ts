@@ -17,7 +17,7 @@ export default defineAppConfig({
     title: '91.pt - 老李游记',
     description:
       '91.pt - 老李游记',
-    image: 'https://logspot.vercel.app/logspot-banner.jpg',
-    url: 'https://logspot.vercel.app'
+    image: '/logo.png',
+    url: 'https://mirai.st'
   }
 });

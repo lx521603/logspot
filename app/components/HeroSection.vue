@@ -1,7 +1,7 @@
 <template>
   <div class="pt-24 pb-12">
     <div class="flex items-center justify-center gap-4">
-      <img src="/logo.png" alt="logspot logo" class="size-10" />
+      <img src="/logo.png" alt="Mirai.st" class="size-10" />
       <h1 class="text-4xl font-black">老李游记</h1>
     </div>
     <p class="text-highlighted text-center text-balance mt-12">
