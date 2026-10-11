@@ -14,9 +14,9 @@ export default defineAppConfig({
     },
   },
   seo: {
-    title: 'Logspot - Opensource changelog template',
+    title: '91.pt - 老李游记',
     description:
-      'Logspot is an open source change log template made with Nuxt and Tailwind',
+      '91.pt - 老李游记',
     image: 'https://logspot.vercel.app/logspot-banner.jpg',
     url: 'https://logspot.vercel.app'
   }
